@@ -1187,6 +1187,18 @@ img{
 	color: #fff;
 }
 
+.about-biz {
+    width:75%;
+/*    background-image: url("assets/images/slider-3.jpg");*/
+    color:black;
+}
+
+.info-biz{
+    padding: 180px 40px;
+    background-image: url("assets/images/slider-3.jpg");
+    color:white;
+}
+
 .team-member-link {
   background: #fff none repeat scroll 0 0;
   color: #555;
