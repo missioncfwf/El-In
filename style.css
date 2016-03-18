@@ -1195,7 +1195,10 @@ img{
 
 .info-biz{
     padding: 180px 40px;
-    background-image: url("assets/images/slider-3.jpg");
+    background: rgba(0, 0, 0, .5) url("assets/images/slider-3.jpg") no-repeat center top;
+/*    background: rgba(0, 0, 0, .5) url("assets/images/slider-3.jpg") no repeat center center;*/
+/*    opacity: 0.1;*/
+ 
     color:white;
 }
 
